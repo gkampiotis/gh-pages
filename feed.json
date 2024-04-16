@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Giannis Kampiotis Blog",
+    "description": "",
+    "home_page_url": "https://gkampiotis.github.io/gh-pages",
+    "feed_url": "https://gkampiotis.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Giannis Kampiotis"
+    },
+    "items": [
+        {
+            "id": "https://gkampiotis.github.io/gh-pages/first-post.html",
+            "url": "https://gkampiotis.github.io/gh-pages/first-post.html",
+            "title": "first post",
+            "summary": "Paragraph 1 test",
+            "content_html": "<h2 id=\"paragraph-1\">Paragraph 1</h2>\n<p>test</p>",
+            "author": {
+                "name": "Giannis Kampiotis"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-16T10:05:34+03:00",
+            "date_modified": "2024-04-16T10:05:34+03:00"
+        }
+    ]
+}
