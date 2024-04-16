@@ -3,12 +3,32 @@
     <title>Giannis Kampiotis Blog</title>
     <link href="https://gkampiotis.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://gkampiotis.github.io/gh-pages" />
-    <updated>2024-04-16T10:05:34+03:00</updated>
+    <updated>2024-04-16T10:36:34+03:00</updated>
     <author>
         <name>Giannis Kampiotis</name>
     </author>
     <id>https://gkampiotis.github.io/gh-pages</id>
 
+    <entry>
+        <title>Second post</title>
+        <author>
+            <name>Giannis Kampiotis</name>
+        </author>
+        <link href="https://gkampiotis.github.io/gh-pages/second-post.html"/>
+        <id>https://gkampiotis.github.io/gh-pages/second-post.html</id>
+
+        <updated>2024-04-16T10:36:34+03:00</updated>
+            <summary>
+                <![CDATA[
+                    lorem ipsum
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>lorem ipsum</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>first post</title>
         <author>
