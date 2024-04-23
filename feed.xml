@@ -3,12 +3,51 @@
     <title>Giannis Kampiotis</title>
     <link href="https://gkampiotis.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://gkampiotis.github.io/gh-pages" />
-    <updated>2024-04-22T17:56:42+03:00</updated>
+    <updated>2024-04-23T09:46:16+03:00</updated>
     <author>
         <name>Giannis Kampiotis</name>
     </author>
     <id>https://gkampiotis.github.io/gh-pages</id>
 
+    <entry>
+        <title>Weekly Roundup 21-04-24</title>
+        <author>
+            <name>Giannis Kampiotis</name>
+        </author>
+        <link href="https://gkampiotis.github.io/gh-pages/weekly-roundup-21-04-24.html"/>
+        <id>https://gkampiotis.github.io/gh-pages/weekly-roundup-21-04-24.html</id>
+
+        <updated>2024-04-23T09:34:20+03:00</updated>
+            <summary>
+                <![CDATA[
+                    0.1% Ideas: 18 Useful Razors &amp; Rules - George Mack A collection of razors, I noted one of them: The transfer of thoughts and ideas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://george-mack.com/" target="_blank" rel="noopener noreferrer">0.1% Ideas: 18 Useful Razors &amp; Rules - George Mack</a></p>
+<p>A collection of <a href="https://www.google.com/search?q=razor+philosophy" target="_blank" rel="noopener noreferrer">razors</a>, I noted one of them:</p>
+<pre><strong>The transfer of thoughts and ideas to different mediums unlocks different views of it.</strong><br><br><code>Creativity Razor - If struggling to think creatively about a subject, transform it: Turn a thought into a written idea. A written idea into a drawing. A drawing into an equation. An equation into a conversation. </code><br><br><code>In the process of transforming it, you begin to spot new creative connections.</code></pre>
+<hr>
+<p><a href="https://stratechery.com/aggregation-theory/" target="_blank" rel="noopener noreferrer">Aggregation Theory - Ben Thompson</a></p>
+<p>A theory for the new state of consumer-based businesses and how they are affected in the post-internet era.<br><br>Before, mass production and distribution was integrated so everyone bought and and read the same things. I got the same newspaper, and other products, as my neighbour. Distribution was localised.<br><br>Post-internet I can get my news, clothes, etc from wherever I want. The internet enabled "personalised" distribution. <a href="https://medium.com/@hagaetc/an-introduction-to-aggregation-theory-7cea63cc0e20" target="_blank" rel="noopener noreferrer">The new scarcity is now that consumers only have 24 hours a day, and the hardest problem is now actually capturing the end-users’ limited attention. The big question now becomes: where do consumers actually look? The answer is, you guessed it: aggregators.</a></p>
+<pre>First, the Internet has made distribution (of digital goods) free, neutralizing the advantage that pre-Internet distributors leveraged to integrate with suppliers. Secondly, the Internet has made transaction costs zero, making it viable for a distributor to integrate forward with end users/consumers at scale.<br><br>[...]<br><br>This has fundamentally changed the plane of competition: no longer do distributors compete based upon exclusive supplier relationships, with consumers/users an afterthought. Instead, suppliers can be commoditized leaving consumers/users as a first order priority. By extension, this means that the most important factor determining success is the user experience: the best distributors/aggregators/market-makers win by providing the best experience, which earns them the most consumers/users, which attracts the most suppliers, which enhances the user experience in a virtuous cycle.</pre>
+<hr>
+<p><a href="https://redef.com/original/age-of-abundance-how-the-content-explosion-will-invert-the-media-industry" target="_blank" rel="noopener noreferrer">Age of Abundance: How the Content Explosion will Invert the Media Industry</a></p>
+<p>The internet will move from programmatic recommendations to human curation.</p>
+<p>This a 2016 prediction for the future state of media. And it has been a pretty spot on one. The shift from algorithms to curators is still in play and there's still time for anyone interested to create a personal brand through curation.</p>
+<hr>
+<p><a href="https://www.youtube.com/watch?v=-M6Q6rI7JII" target="_blank" rel="noopener noreferrer">Don't choose your niche — be prolific instead </a></p>
+<p>I guess that's a good advice not only about finding your niche but exploring life in general.</p>
+<pre>I was thinking like an architect, trying to design my niche before getting started, when I should have been thinking like an archeologist, slowly uncovering my niche with every little thing I created.</pre>
+<p>Keep creating whatever happens. Keep creating and you'll find your way.</p>
+<hr>
+<p><a href="https://www.julian.com/guide/startup/growth-channels" target="_blank" rel="noopener noreferrer">Which paid and organic channels should you pursue?</a></p>
+<p>Excellent guide on organic/paid growth channels.</p>
+<p>Distribution-first is how I think. This guide makes it easier to think about growth costs (time or money) and if a business/idea is worth pursuing.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Hafs as A Service</title>
         <author>
